@@ -4,5 +4,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Owen-Choi&show_icons=true&theme=dark)
 <br>
 ![Github_Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Owen-Choi&langs_count=4&theme=dark)
-
-Also interested in Python(Data), C++, Unreal gameEngine
