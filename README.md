@@ -6,4 +6,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owen-Choi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-choi&show_icons=true&theme=radical&count_private=true)  
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 </div>
+
