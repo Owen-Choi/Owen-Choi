@@ -10,6 +10,6 @@
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=highcontrast&hide_border=false&fire=red&sideNums=red)<br/>
   
-![social](https://user-images.githubusercontent.com/82303989/208237842-bba94fce-6751-4791-8b3c-ae55096f4035.gif)
+<!-- ![social](https://user-images.githubusercontent.com/82303989/208237842-bba94fce-6751-4791-8b3c-ae55096f4035.gif) -->
 </div>
 
