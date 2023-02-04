@@ -10,7 +10,7 @@
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=highcontrast&hide_border=false&fire=red&sideNums=red)<br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=demitymd)](https://solved.ac/rlaehdwns99/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=demitymd)](https://solved.ac/demitymd/)
   
 ![social](https://user-images.githubusercontent.com/82303989/208237842-bba94fce-6751-4791-8b3c-ae55096f4035.gif)
 </div>
