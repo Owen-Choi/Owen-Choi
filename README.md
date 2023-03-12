@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-choi&show_icons=true&theme=radical&count_private=true)  
 
 
-<!-- ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=highcontrast&hide_border=false&fire=red&sideNums=red)<br/> -->
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=highcontrast&hide_border=false&fire=red&sideNums=red)<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=demitymd)](https://solved.ac/demitymd/)
   
