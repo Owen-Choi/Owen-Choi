@@ -5,7 +5,7 @@
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owen-Choi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-choi&show_icons=true&theme=radical&count_private=true)  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-choi&show_icons=true&theme=radical&count_private=true)   -->
 
 
 <!-- ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=highcontrast&hide_border=false&fire=red&sideNums=red)<br/> -->
@@ -15,7 +15,7 @@
 ![social](https://user-images.githubusercontent.com/82303989/208237842-bba94fce-6751-4791-8b3c-ae55096f4035.gif)
 </div>
 
-<!-- -----------
+-----------
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Owen-Choi&show_icons=true&theme=apprentice&count_private=true&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>  
 </div>
@@ -23,8 +23,5 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Owen-Choi&theme=dark&hide_border=true&fire=red&sideNums=red&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 </div> 
   
-<div align="left">  
-![social](https://user-images.githubusercontent.com/82303989/208237842-bba94fce-6751-4791-8b3c-ae55096f4035.gif)   
-</div>
   
------------ -->
+-----------
